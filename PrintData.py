@@ -94,21 +94,5 @@ print("""            dataProvider.linkToObject = London;
             map.write("mapdiv");
 
         });""",file=fdata)
-"""	
-
-			    dataProvider.linkToObject = nimabi;
-			    dataProvider.images = cities;
-			    map.dataProvider = dataProvider;
-				  map.backgroundZoomsToTop = true;
-				  map.linesAboveImages = true;
-			    //xinjiade
-			    map.objectList = new AmCharts.ObjectList("listdiv");
-			    map.showImagesInList = true;
-
-			    map.write("mapdiv");
-
-			});
-	193,"Lester B Pearson Intl","Toronto","Canada","YYZ","CYYZ",43.677223,-79.630556,569,-5,"A"
-	"""
 
 fdata.close()
