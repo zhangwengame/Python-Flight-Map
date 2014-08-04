@@ -36,6 +36,7 @@ fair.close()
 fair=open("nairport","r")
 for line in fair:
 	split=line.split(',')
+	name=split[2].strip('"')
 	split[2]=split[2].replace("'","")
 	split[2]=split[2].replace(" ","")
 	split[2]=split[2].replace(".","")
@@ -76,7 +77,7 @@ for line in fair:
 			            color: "#CC0000",
 			            labelColor: "#CC0000",
 			            labelRollOverColor: "#CC0000",
-			            labelFontSize: 20{}]""".format(split[2].strip('"'),'}'),file=fdata)
+			            labelFontSize: 20{}]""".format(name,'}'),file=fdata)
 	print("            };",file=fdata)		
 print("            var cities = [",file=fdata)
 for no in airdic:

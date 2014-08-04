@@ -5921,7 +5921,7 @@ AmCharts.ready(function() {
                         longitudes: [-99.0721,-118.4081]
                     }],
                 images: [{
-			            label: "Flights from MexicoCity",
+			            label: "Flights from Mexico City",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -6271,7 +6271,7 @@ AmCharts.ready(function() {
                         longitudes: [54.6511,101.7099]
                     }],
                 images: [{
-			            label: "Flights from AbuDhabi",
+			            label: "Flights from Abu Dhabi",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -7727,7 +7727,7 @@ AmCharts.ready(function() {
                         longitudes: [30.2625,37.9061]
                     }],
                 images: [{
-			            label: "Flights from StPetersburg",
+			            label: "Flights from St. Petersburg",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -8427,7 +8427,7 @@ AmCharts.ready(function() {
                         longitudes: [113.9146,151.1772]
                     }],
                 images: [{
-			            label: "Flights from HongKong",
+			            label: "Flights from Hong Kong",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -9501,7 +9501,7 @@ AmCharts.ready(function() {
                         longitudes: [101.7099,54.6511]
                     }],
                 images: [{
-			            label: "Flights from KualaLumpur",
+			            label: "Flights from Kuala Lumpur",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -11111,7 +11111,7 @@ AmCharts.ready(function() {
                         longitudes: [108.7516,113.2988]
                     }],
                 images: [{
-			            label: "Flights from Xian",
+			            label: "Flights from Xi'an",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -12479,7 +12479,7 @@ AmCharts.ready(function() {
                         longitudes: [-122.3749,-118.4081]
                     }],
                 images: [{
-			            label: "Flights from SanFrancisco",
+			            label: "Flights from San Francisco",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -13061,7 +13061,7 @@ AmCharts.ready(function() {
                         longitudes: [-118.4081,-99.0721]
                     }],
                 images: [{
-			            label: "Flights from LosAngeles",
+			            label: "Flights from Los Angeles",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -14205,7 +14205,7 @@ AmCharts.ready(function() {
                         longitudes: [-97.0380,-79.6306]
                     }],
                 images: [{
-			            label: "Flights from DallasFortWorth",
+			            label: "Flights from Dallas-Fort Worth",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -15045,7 +15045,7 @@ AmCharts.ready(function() {
                         longitudes: [-73.7789,-79.6306]
                     }],
                 images: [{
-			            label: "Flights from NewYork",
+			            label: "Flights from New York",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
@@ -16253,7 +16253,7 @@ AmCharts.ready(function() {
                         longitudes: [-115.1522,-99.0721]
                     }],
                 images: [{
-			            label: "Flights from LasVegas",
+			            label: "Flights from Las Vegas",
 			            svgPath: planeSVG,
 			            left: 100,
 			            top: 45,
