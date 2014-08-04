@@ -45,6 +45,7 @@ for line in fair:
 	print("                    id:",split[2],',',file=fdata)
 	print("""                    color: "#000000",
 	                svgPath: targetSVG,""",file=fdata)
+	print("                    title: {},".format('"'+name+'"'),file=fdata)
 	print("                    latitude: {:.4f},".format(float(split[6])),file=fdata)
 	print("                    longitude: {:.4f},".format(float(split[7])),file=fdata)
 	print("""                    scale: 1.5,
