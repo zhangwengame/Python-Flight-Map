@@ -1,0 +1,1185 @@
+Here is a direct route: 
+EK,2183,DXB,2188,BKK,3885,,0,388 77W 772 773
+
+Here is a direct route: 
+QF,4089,DXB,2188,BKK,3885,Y,0,388 77W
+
+Here is a direct route: 
+TG,4940,DXB,2188,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,BOM,2997,,0,320
+9W,3000,BOM,2997,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,BOM,2997,,0,320
+AI,218,BOM,2997,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,BOM,2997,,0,320
+PG,1422,BOM,2997,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,BOM,2997,,0,320
+TG,4940,BOM,2997,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,DEL,3093,,0,320
+6E,2850,DEL,3093,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,DEL,3093,,0,320
+9W,3000,DEL,3093,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,DEL,3093,,0,320
+AI,218,DEL,3093,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,DEL,3093,,0,320
+CX,1680,DEL,3093,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+6E,2850,DXB,2188,DEL,3093,,0,320
+TG,4940,DEL,3093,BKK,3885,,0,777 333 744
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,BOM,2997,,0,73H
+9W,3000,BOM,2997,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,BOM,2997,,0,73H
+AI,218,BOM,2997,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,BOM,2997,,0,73H
+PG,1422,BOM,2997,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,BOM,2997,,0,73H
+TG,4940,BOM,2997,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,DEL,3093,,0,73H
+6E,2850,DEL,3093,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,DEL,3093,,0,73H
+9W,3000,DEL,3093,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,DEL,3093,,0,73H
+AI,218,DEL,3093,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,DEL,3093,,0,73H
+CX,1680,DEL,3093,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+9W,3000,DXB,2188,DEL,3093,,0,73H
+TG,4940,DEL,3093,BKK,3885,,0,777 333 744
+
+Here is a route with 1 transation: 
+AA,24,DXB,2188,LHR,507,Y,0,744 777
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+AA,24,DXB,2188,LHR,507,Y,0,744 777
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+AA,24,DXB,2188,LHR,507,Y,0,744 777
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+AA,24,DXB,2188,LHR,507,Y,0,744 777
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+AF,137,DXB,2188,CDG,1382,,0,77W
+AF,137,CDG,1382,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+AF,137,DXB,2188,CDG,1382,,0,77W
+AZ,596,CDG,1382,BKK,3885,Y,0,77W
+
+Here is a route with 1 transation: 
+AF,137,DXB,2188,CDG,1382,,0,77W
+TG,4940,CDG,1382,BKK,3885,,0,380
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,BOM,2997,,0,321
+9W,3000,BOM,2997,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,BOM,2997,,0,321
+AI,218,BOM,2997,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,BOM,2997,,0,321
+PG,1422,BOM,2997,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,BOM,2997,,0,321
+TG,4940,BOM,2997,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,DEL,3093,,0,788
+6E,2850,DEL,3093,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,DEL,3093,,0,788
+9W,3000,DEL,3093,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,DEL,3093,,0,788
+AI,218,DEL,3093,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,DEL,3093,,0,788
+CX,1680,DEL,3093,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+AI,218,DXB,2188,DEL,3093,,0,788
+TG,4940,DEL,3093,BKK,3885,,0,777 333 744
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,AMS,580,Y,0,777
+BR,2091,AMS,580,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,AMS,580,Y,0,777
+CI,1756,AMS,580,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,AMS,580,Y,0,777
+KL,3090,AMS,580,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,CDG,1382,Y,0,77W
+AF,137,CDG,1382,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,CDG,1382,Y,0,77W
+AZ,596,CDG,1382,BKK,3885,Y,0,77W
+
+Here is a route with 1 transation: 
+AZ,596,DXB,2188,CDG,1382,Y,0,77W
+TG,4940,CDG,1382,BKK,3885,,0,380
+
+Here is a route with 1 transation: 
+BA,1355,DXB,2188,LHR,507,,0,744 777
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+BA,1355,DXB,2188,LHR,507,,0,744 777
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+BA,1355,DXB,2188,LHR,507,,0,744 777
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+BA,1355,DXB,2188,LHR,507,,0,744 777
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+BI,4255,DXB,2188,LHR,507,,0,772
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+BI,4255,DXB,2188,LHR,507,,0,772
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+BI,4255,DXB,2188,LHR,507,,0,772
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+BI,4255,DXB,2188,LHR,507,,0,772
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+CA,751,DXB,2188,PEK,3364,,0,330
+CA,751,PEK,3364,BKK,3885,,0,738 772
+
+Here is a route with 1 transation: 
+CA,751,DXB,2188,PEK,3364,,0,330
+HU,2660,PEK,3364,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+CA,751,DXB,2188,PEK,3364,,0,330
+MJ,3342,PEK,3364,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+CA,751,DXB,2188,PEK,3364,,0,330
+TG,4940,PEK,3364,BKK,3885,,0,330 744 747
+
+Here is a route with 1 transation: 
+CA,751,DXB,2188,PEK,3364,,0,330
+UL,4349,PEK,3364,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+CX,1680,HKG,3077,BKK,3885,,0,773 77W 333 772 744
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+EK,2183,HKG,3077,BKK,3885,,0,388
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+ET,2220,HKG,3077,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+HX,2773,HKG,3077,BKK,3885,,0,333 332
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+KQ,3126,HKG,3077,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+MD,1066,HKG,3077,BKK,3885,Y,0,380
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+MJ,3342,HKG,3077,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+OX,3811,HKG,3077,BKK,3885,,0,M82
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+PK,3871,HKG,3077,BKK,3885,,0,310
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+RJ,4259,HKG,3077,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+TG,4940,HKG,3077,BKK,3885,,0,333 380 777 330 747 744
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+UL,4349,HKG,3077,BKK,3885,,0,343 332
+
+Here is a route with 1 transation: 
+CX,1680,DXB,2188,HKG,3077,,0,333
+UO,2774,HKG,3077,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+CZ,1767,CAN,3370,BKK,3885,,0,321 738 763 320
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+KQ,3126,CAN,3370,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+MD,1066,CAN,3370,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+MJ,3342,CAN,3370,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+TG,4940,CAN,3370,BKK,3885,,0,333 777 330
+
+Here is a route with 1 transation: 
+CZ,1767,DXB,2188,CAN,3370,,0,772
+UL,4349,CAN,3370,BKK,3885,,0,332
+
+Here is a route with 1 transation: 
+DY,3737,DXB,2188,CPH,609,,0,73H
+TG,4940,CPH,609,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,AMS,580,,0,388
+BR,2091,AMS,580,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,AMS,580,,0,388
+CI,1756,AMS,580,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,AMS,580,,0,388
+KL,3090,AMS,580,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,BOM,2997,,0,772 332 77W 73H 773
+9W,3000,BOM,2997,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,BOM,2997,,0,772 332 77W 73H 773
+AI,218,BOM,2997,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,BOM,2997,,0,772 332 77W 73H 773
+PG,1422,BOM,2997,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,BOM,2997,,0,772 332 77W 73H 773
+TG,4940,BOM,2997,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+CZ,1767,CAN,3370,BKK,3885,,0,321 738 763 320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+KQ,3126,CAN,3370,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+MD,1066,CAN,3370,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+MJ,3342,CAN,3370,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+TG,4940,CAN,3370,BKK,3885,,0,333 777 330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CAN,3370,,0,77W
+UL,4349,CAN,3370,BKK,3885,,0,332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CDG,1382,,0,77W 388
+AF,137,CDG,1382,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CDG,1382,,0,77W 388
+AZ,596,CDG,1382,BKK,3885,Y,0,77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CDG,1382,,0,77W 388
+TG,4940,CDG,1382,BKK,3885,,0,380
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,CPH,609,,0,77W
+TG,4940,CPH,609,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DEL,3093,,0,772 332 77L 773 73H 77W 343
+6E,2850,DEL,3093,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DEL,3093,,0,772 332 77L 773 73H 77W 343
+9W,3000,DEL,3093,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DEL,3093,,0,772 332 77L 773 73H 77W 343
+AI,218,DEL,3093,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DEL,3093,,0,772 332 77L 773 73H 77W 343
+CX,1680,DEL,3093,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DEL,3093,,0,772 332 77L 773 73H 77W 343
+TG,4940,DEL,3093,BKK,3885,,0,777 333 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DME,4029,,0,77W 388
+TG,4940,DME,4029,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,DME,4029,,0,77W 388
+UN,5067,DME,4029,BKK,3885,,0,772 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,FCO,1555,,0,388 773
+TG,4940,FCO,1555,BKK,3885,,0,744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,FRA,340,,0,77W
+LH,3320,FRA,340,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,FRA,340,,0,77W
+TG,4940,FRA,340,BKK,3885,,0,380 346
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+CX,1680,HKG,3077,BKK,3885,,0,773 77W 333 772 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+EK,2183,HKG,3077,BKK,3885,,0,388
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+ET,2220,HKG,3077,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+HX,2773,HKG,3077,BKK,3885,,0,333 332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+KQ,3126,HKG,3077,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+MD,1066,HKG,3077,BKK,3885,Y,0,380
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+MJ,3342,HKG,3077,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+OX,3811,HKG,3077,BKK,3885,,0,M82
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+PK,3871,HKG,3077,BKK,3885,,0,310
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+RJ,4259,HKG,3077,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+TG,4940,HKG,3077,BKK,3885,,0,333 380 777 330 747 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+UL,4349,HKG,3077,BKK,3885,,0,343 332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,HKG,3077,,0,77W 388 332
+UO,2774,HKG,3077,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+7C,2994,ICN,3930,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+8B,17408,ICN,3930,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+AC,330,ICN,3930,BKK,3885,Y,0,333 777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+KE,3163,ICN,3930,BKK,3885,,0,332 744 772 333 77W 773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+LJ,9810,ICN,3930,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+OZ,28,ICN,3930,BKK,3885,,0,333 772 77L
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+TG,4940,ICN,3930,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+TW,16624,ICN,3930,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,ICN,3930,,0,388
+ZE,9809,ICN,3930,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,IST,1701,,0,77W
+TG,4940,IST,1701,BKK,3885,Y,0,77W 330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,IST,1701,,0,77W
+TK,4951,IST,1701,BKK,3885,,0,77W 330 343
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+AA,24,KUL,3304,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+ET,2220,KUL,3304,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+LH,3320,KUL,3304,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+MD,1066,KUL,3304,BKK,3885,Y,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+MH,3378,KUL,3304,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+MS,2143,KUL,3304,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+PG,1422,KUL,3304,BKK,3885,Y,0,737
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+RJ,4259,KUL,3304,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,KUL,3304,,0,77W 388 773 332
+TG,4940,KUL,3304,BKK,3885,,0,333 330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,LED,2948,,0,773
+UN,5067,LED,2948,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,LHR,507,,0,388
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,LHR,507,,0,388
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,LHR,507,,0,388
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,LHR,507,,0,388
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,MAD,1229,,0,77W 77L
+TG,4940,MAD,1229,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,MUC,346,,0,388 77W
+LH,3320,MUC,346,BKK,3885,Y,0,747 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,MUC,346,,0,388 77W
+TG,4940,MUC,346,BKK,3885,,0,747 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+AA,24,NRT,2279,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+DL,2009,NRT,2279,BKK,3885,,0,744 777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+JL,2987,NRT,2279,BKK,3885,,0,777 767
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+NH,324,NRT,2279,BKK,3885,,0,763 777 77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+PG,1422,NRT,2279,BKK,3885,,0,777 767
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+TG,4940,NRT,2279,BKK,3885,,0,744 773 380
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,NRT,2279,,0,77W
+UA,5209,NRT,2279,BKK,3885,,0,744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PEK,3364,,0,388 77W
+CA,751,PEK,3364,BKK,3885,,0,738 772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PEK,3364,,0,388 77W
+HU,2660,PEK,3364,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PEK,3364,,0,388 77W
+MJ,3342,PEK,3364,BKK,3885,Y,0,330
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PEK,3364,,0,388 77W
+TG,4940,PEK,3364,BKK,3885,,0,330 744 747
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PEK,3364,,0,388 77W
+UL,4349,PEK,3364,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+9C,15999,PVG,3406,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+FM,4609,PVG,3406,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+HO,3081,PVG,3406,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+MU,1758,PVG,3406,BKK,3885,,0,320 767 332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+TG,4940,PVG,3406,BKK,3885,,0,330 773
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,PVG,3406,,0,77W 388
+UL,4349,PVG,3406,BKK,3885,,0,343 332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+3K,3021,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+AI,218,SIN,3316,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+CX,1680,SIN,3316,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+MD,1066,SIN,3316,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+SQ,4435,SIN,3316,BKK,3885,,0,333 772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+TG,4940,SIN,3316,BKK,3885,,0,777 773 330 333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+TR,4936,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SIN,3316,,0,77W 388
+TZ,17891,SIN,3316,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SYD,3361,,0,388
+EK,2183,SYD,3361,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SYD,3361,,0,388
+QF,4089,SYD,3361,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,SYD,3361,,0,388
+TG,4940,SYD,3361,BKK,3885,,0,747 744
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,VIE,1613,,0,77W 345
+BR,2091,VIE,1613,BKK,3885,,0,332
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,VIE,1613,,0,77W 345
+OS,491,VIE,1613,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+EK,2183,DXB,2188,VIE,1613,,0,77W 345
+TG,4940,VIE,1613,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+HV,5039,DXB,2188,AMS,580,,0,73H
+BR,2091,AMS,580,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+HV,5039,DXB,2188,AMS,580,,0,73H
+CI,1756,AMS,580,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+HV,5039,DXB,2188,AMS,580,,0,73H
+KL,3090,AMS,580,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+IB,2822,DXB,2188,LHR,507,Y,0,777 744
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+IB,2822,DXB,2188,LHR,507,Y,0,777 744
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+IB,2822,DXB,2188,LHR,507,Y,0,777 744
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+IB,2822,DXB,2188,LHR,507,Y,0,777 744
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+AA,24,KUL,3304,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+ET,2220,KUL,3304,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+LH,3320,KUL,3304,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+MD,1066,KUL,3304,BKK,3885,Y,0,333
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+MH,3378,KUL,3304,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+MS,2143,KUL,3304,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+PG,1422,KUL,3304,BKK,3885,Y,0,737
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+RJ,4259,KUL,3304,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+IY,5496,DXB,2188,KUL,3304,,0,330
+TG,4940,KUL,3304,BKK,3885,,0,333 330
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+AA,24,NRT,2279,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+DL,2009,NRT,2279,BKK,3885,,0,744 777
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+JL,2987,NRT,2279,BKK,3885,,0,777 767
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+NH,324,NRT,2279,BKK,3885,,0,763 777 77W
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+PG,1422,NRT,2279,BKK,3885,,0,777 767
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+TG,4940,NRT,2279,BKK,3885,,0,744 773 380
+
+Here is a route with 1 transation: 
+JL,2987,DXB,2188,NRT,2279,Y,0,773
+UA,5209,NRT,2279,BKK,3885,,0,744
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+7C,2994,ICN,3930,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+8B,17408,ICN,3930,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+AC,330,ICN,3930,BKK,3885,Y,0,333 777
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+KE,3163,ICN,3930,BKK,3885,,0,332 744 772 333 77W 773
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+LJ,9810,ICN,3930,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+OZ,28,ICN,3930,BKK,3885,,0,333 772 77L
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+TG,4940,ICN,3930,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+TW,16624,ICN,3930,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+KE,3163,DXB,2188,ICN,3930,,0,772
+ZE,9809,ICN,3930,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+KL,3090,DXB,2188,AMS,580,,0,777
+BR,2091,AMS,580,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+KL,3090,DXB,2188,AMS,580,,0,777
+CI,1756,AMS,580,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+KL,3090,DXB,2188,AMS,580,,0,777
+KL,3090,AMS,580,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+LH,3320,DXB,2188,FRA,340,,0,744
+LH,3320,FRA,340,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+LH,3320,DXB,2188,FRA,340,,0,744
+TG,4940,FRA,340,BKK,3885,,0,380 346
+
+Here is a route with 1 transation: 
+LH,3320,DXB,2188,MUC,346,,0,343 346
+LH,3320,MUC,346,BKK,3885,Y,0,747 744
+
+Here is a route with 1 transation: 
+LH,3320,DXB,2188,MUC,346,,0,343 346
+TG,4940,MUC,346,BKK,3885,,0,747 744
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+AA,24,KUL,3304,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+ET,2220,KUL,3304,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+LH,3320,KUL,3304,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+MD,1066,KUL,3304,BKK,3885,Y,0,333
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+MH,3378,KUL,3304,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+MS,2143,KUL,3304,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+PG,1422,KUL,3304,BKK,3885,Y,0,737
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+RJ,4259,KUL,3304,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+MH,3378,DXB,2188,KUL,3304,,0,772
+TG,4940,KUL,3304,BKK,3885,,0,333 330
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+3K,3021,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+AI,218,SIN,3316,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+CX,1680,SIN,3316,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+MD,1066,SIN,3316,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+SQ,4435,SIN,3316,BKK,3885,,0,333 772
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+TG,4940,SIN,3316,BKK,3885,,0,777 773 330 333
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+TR,4936,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+MS,2143,DXB,2188,SIN,3316,Y,0,333
+TZ,17891,SIN,3316,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+MU,1758,DXB,2188,KMG,3382,,0,333
+MU,1758,KMG,3382,BKK,3885,,0,733 737
+
+Here is a route with 1 transation: 
+MU,1758,DXB,2188,KMG,3382,,0,333
+TG,4940,KMG,3382,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+OR,1299,DXB,2188,AMS,580,,0,738
+BR,2091,AMS,580,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+OR,1299,DXB,2188,AMS,580,,0,738
+CI,1756,AMS,580,BKK,3885,,0,343
+
+Here is a route with 1 transation: 
+OR,1299,DXB,2188,AMS,580,,0,738
+KL,3090,AMS,580,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+OS,491,DXB,2188,VIE,1613,Y,0,763 767
+BR,2091,VIE,1613,BKK,3885,,0,332
+
+Here is a route with 1 transation: 
+OS,491,DXB,2188,VIE,1613,Y,0,763 767
+OS,491,VIE,1613,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+OS,491,DXB,2188,VIE,1613,Y,0,763 767
+TG,4940,VIE,1613,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,CPH,609,Y,0,77W
+TG,4940,CPH,609,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,FRA,340,Y,0,77W
+LH,3320,FRA,340,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,FRA,340,Y,0,77W
+TG,4940,FRA,340,BKK,3885,,0,380 346
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,IST,1701,Y,0,77W
+TG,4940,IST,1701,BKK,3885,Y,0,77W 330
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,IST,1701,Y,0,77W
+TK,4951,IST,1701,BKK,3885,,0,77W 330 343
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+AA,24,KUL,3304,BKK,3885,,0,737
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+ET,2220,KUL,3304,BKK,3885,,0,763
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+LH,3320,KUL,3304,BKK,3885,,0,346
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+MD,1066,KUL,3304,BKK,3885,Y,0,333
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+MH,3378,KUL,3304,BKK,3885,,0,738
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+MS,2143,KUL,3304,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+PG,1422,KUL,3304,BKK,3885,Y,0,737
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+RJ,4259,KUL,3304,BKK,3885,,0,330
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,KUL,3304,Y,0,77W
+TG,4940,KUL,3304,BKK,3885,,0,333 330
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,LHR,507,,0,388
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,LHR,507,,0,388
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,LHR,507,,0,388
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,LHR,507,,0,388
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,MUC,346,Y,0,388 77W
+LH,3320,MUC,346,BKK,3885,Y,0,747 744
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,MUC,346,Y,0,388 77W
+TG,4940,MUC,346,BKK,3885,,0,747 744
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+3K,3021,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+AI,218,SIN,3316,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+CX,1680,SIN,3316,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+MD,1066,SIN,3316,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+SQ,4435,SIN,3316,BKK,3885,,0,333 772
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+TG,4940,SIN,3316,BKK,3885,,0,777 773 330 333
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+TR,4936,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SIN,3316,Y,0,77W 388
+TZ,17891,SIN,3316,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SYD,3361,,0,388
+EK,2183,SYD,3361,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SYD,3361,,0,388
+QF,4089,SYD,3361,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+QF,4089,DXB,2188,SYD,3361,,0,388
+TG,4940,SYD,3361,BKK,3885,,0,747 744
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,BOM,2997,,0,737
+9W,3000,BOM,2997,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,BOM,2997,,0,737
+AI,218,BOM,2997,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,BOM,2997,,0,737
+PG,1422,BOM,2997,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,BOM,2997,,0,737
+TG,4940,BOM,2997,BKK,3885,,0,773 777
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,DEL,3093,,0,737
+6E,2850,DEL,3093,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,DEL,3093,,0,737
+9W,3000,DEL,3093,BKK,3885,,0,73H
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,DEL,3093,,0,737
+AI,218,DEL,3093,BKK,3885,,0,321
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,DEL,3093,,0,737
+CX,1680,DEL,3093,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+SG,4375,DXB,2188,DEL,3093,,0,737
+TG,4940,DEL,3093,BKK,3885,,0,777 333 744
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+3K,3021,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+AI,218,SIN,3316,BKK,3885,Y,0,772
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+CX,1680,SIN,3316,BKK,3885,,0,333
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+MD,1066,SIN,3316,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+SQ,4435,SIN,3316,BKK,3885,,0,333 772
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+TG,4940,SIN,3316,BKK,3885,,0,777 773 330 333
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+TR,4936,SIN,3316,BKK,3885,,0,320
+
+Here is a route with 1 transation: 
+SQ,4435,DXB,2188,SIN,3316,,0,77W 333
+TZ,17891,SIN,3316,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+TK,4951,DXB,2188,IST,1701,,0,321
+TG,4940,IST,1701,BKK,3885,Y,0,77W 330
+
+Here is a route with 1 transation: 
+TK,4951,DXB,2188,IST,1701,,0,321
+TK,4951,IST,1701,BKK,3885,,0,77W 330 343
+
+Here is a route with 1 transation: 
+UN,5067,DXB,2188,DME,4029,,0,744 738 T20
+TG,4940,DME,4029,BKK,3885,,0,773
+
+Here is a route with 1 transation: 
+UN,5067,DXB,2188,DME,4029,,0,744 738 T20
+UN,5067,DME,4029,BKK,3885,,0,772 744
+
+Here is a route with 1 transation: 
+UN,5067,DXB,2188,LED,2948,,0,738
+UN,5067,LED,2948,BKK,3885,,0,772
+
+Here is a route with 1 transation: 
+VS,5347,DXB,2188,LHR,507,,0,333
+BA,1355,LHR,507,BKK,3885,,0,777
+
+Here is a route with 1 transation: 
+VS,5347,DXB,2188,LHR,507,,0,333
+BR,2091,LHR,507,BKK,3885,,0,77W
+
+Here is a route with 1 transation: 
+VS,5347,DXB,2188,LHR,507,,0,333
+IB,2822,LHR,507,BKK,3885,Y,0,777
+
+Here is a route with 1 transation: 
+VS,5347,DXB,2188,LHR,507,,0,333
+TG,4940,LHR,507,BKK,3885,,0,747 346
+
