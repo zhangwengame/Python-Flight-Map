@@ -17,13 +17,21 @@ for line in f_name:
     if str2==chart[0]:
         destCity = chart[1]
 
-startCity = startCity.strip('\n"')
-destCity = destCity.strip('\n"')
+startCity = startCity[:4]
+destCity = destCity[:4]
 urlarg = "http://flight.qunar.com/schedule/international/fsearch_list.jsp?departure="+startCity+"&arrival="+destCity
+urlarg = urlarg.replace('"','')
 print(urlarg)
 thepage = urllib.request.urlopen(urlarg)
 fullPage=open("WebOut.txt","w")
 print (thepage.read().decode('utf8'),file=fullPage)
 fullPage.close()
 
+fullPage = open("WebOut.txt","r")
+f_select = open("SelectOut.txt","w")
+for line in fullPage:
+    if "鼠标移上去，显示timedetail时，需要在这位置加hover" in line:
+        print(line,file=f_select)
+fullPage.close()
+f_select.close()
 
