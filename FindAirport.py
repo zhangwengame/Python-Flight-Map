@@ -13,7 +13,7 @@ for line in froutes:
 	airport[sour]=(airport[sour][0]+1,sour)
 	airport[dest]=(airport[dest][0]+1,dest)
 airport.sort(reverse=True)
-newairport=[x[1] for x in airport[:49]]
+newairport=[x[1] for x in airport[:50]]
 froutes.close()
 fnewairport=open('nairport','w');
 fnewroute=open('nroute','w');

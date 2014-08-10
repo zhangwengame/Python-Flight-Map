@@ -4,6 +4,7 @@
 
 import urllib.request
 import sys
+from bs4 import BeautifulSoup
 
 str1 = input("The start? ")
 str2 = input("The destination? ")
@@ -23,15 +24,25 @@ urlarg = "http://flight.qunar.com/schedule/international/fsearch_list.jsp?depart
 urlarg = urlarg.replace('"','')
 print(urlarg)
 thepage = urllib.request.urlopen(urlarg)
-fullPage=open("WebOut.txt","w")
-print (thepage.read().decode('utf8'),file=fullPage)
-fullPage.close()
+ncdic={}
+fdic=open('Number_Chinese','r');
+for line in fdic:
+	strs=line.split(',')
+	ncdic[strs[1].strip()]=int(strs[0])
+fdic.close()
 
-fullPage = open("WebOut.txt","r")
-f_select = open("SelectOut.txt","w")
-for line in fullPage:
-    if "鼠标移上去，显示timedetail时，需要在这位置加hover" in line:
-        print(line,file=f_select)
-fullPage.close()
-f_select.close()
+# fullPage=open("WebOut.txt","w")
+# print (thepage.read().decode('utf8'),file=fullPage)
+# fullPage.close()
+
+# fullPage = open("WebOut.txt","r")
+# soup=BeautifulSoup(fullPage)
+web=thepage.read().decode('utf8')
+# print(web)
+# f_select = open("SelectOut.txt","w")
+# for line in fullPage:
+#     if "鼠标移上去，显示timedetail时，需要在这位置加hover" in line:
+#         print(line,file=f_select)
+# fullPage.close()
+# f_select.close()
 
