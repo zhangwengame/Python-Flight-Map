@@ -38,6 +38,8 @@ fdic.close()
 # fullPage = open("WebOut.txt","r")
 # soup=BeautifulSoup(fullPage)
 web=thepage.read().decode('utf8')
+soup=BeautifulSoup(web)
+soup.find_all("div","result_content")
 # print(web)
 # f_select = open("SelectOut.txt","w")
 # for line in fullPage:
