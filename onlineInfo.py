@@ -40,7 +40,14 @@ def onlineInfo(start,dest):
 		#flight time span c2
 		span=flight.find_all("span","c2")[0]
 		fldic['deTime']=span.find_all("div","time1")[0].string
-		fldic['arTime']=span.find_all("div","time2")[0].string
+		fldic['arTime']=span.find_all("div","time2")[0].contents[0].string
+		fldic['extraTime']=0
+		tmpResult=span.find_all("cite","d1")
+		if len(tmpResult)!=0:
+			fldic['extraTime']=1
+		tmpResult=span.find_all("cite","d2")
+		if len(tmpResult)!=0:
+			fldic['extraTime']=2
 		#airport
 		span=flight.find_all("span","c3")[0]
 		if not(span.contents[0] in ncdic):
