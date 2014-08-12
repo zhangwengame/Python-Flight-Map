@@ -1,0 +1,229 @@
+<!-- page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<script language="javascript" type="text/JavaScript">
+    var xmlHttp;
+    var requestType="";
+    var id;
+    var dep;
+    var des;
+
+
+    function doSearch()
+    {
+      //alert("dOSearch");
+      dep = document.getElementById("dep").value;
+      des = document.getElementById("des").value;
+      id = parseInt(Math.random()*10000000);
+      //alert(dep+des+id);
+      doQuery();
+
+      setTimeout(loadXml,1000);//延时1秒钟加载python生成的文件，否则会乱码。
+      //delXml(id);
+
+
+    }
+
+
+
+    function doQuery()
+    {
+      
+      var url="query.php";
+      url = url + "?dep=" + dep;
+      url = url + "&des=" + des;
+      url = url + "&id=" + id;
+
+
+      if(window.ActiveXObject)
+      {
+           xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+      else if(window.XMLHttpRequest)
+      {
+           xmlHttp=new XMLHttpRequest();
+      }
+      //alert("doQuery:"+url);
+      xmlHttp.open("GET",url,true);
+      //xmlHttp.onreadystatechange=callback;
+      xmlHttp.send(null);
+    }
+
+
+
+    function loadXml()
+    {
+      //alert("loadXml");
+      var url=id+".xml";
+      if(window.ActiveXObject)
+      {
+           xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+      else if(window.XMLHttpRequest)
+      {
+           xmlHttp=new XMLHttpRequest();
+      }
+      xmlHttp.open("GET",url,true);
+      xmlHttp.onreadystatechange=callback;
+      xmlHttp.send(null);
+    }
+
+
+    function callback()
+    {
+       //alert(id);
+       if(xmlHttp.readyState==4)
+       {
+           if(xmlHttp.status==200)
+           {
+            
+              clearPreviousResults();
+              parseResults();
+              //setTimeout(delXml(),5000);
+           }
+       }
+    }
+
+
+    function clearPreviousResults()
+    {
+       //alert("clearPreviousResults"); 
+       var header=document.getElementById("header");
+       if(header.hasChildNodes())
+       {
+          header.removeChild(header.childNodes[0]);
+       }
+       var tableBody=document.getElementById("resultsBody");
+       while(tableBody.childNodes.length>0)
+       {
+          tableBody.removeChild(tableBody.childNodes[0]);
+       }
+    }
+   
+    function parseResults()
+    {
+       //alert("parseResults");
+       var results=xmlHttp.responseXML;
+       var property=null;
+       var flight="";
+       var dep="";
+       var depTime="";
+       var des="";
+       var desTime="";
+       var price="";
+       var type = "";
+      
+       var properties=results.getElementsByTagName("property");
+       addTableRow("flight","dep","depTime","des","desTime","price","type");
+       for(var i=0;i<properties.length;i++)
+       {
+           property=properties[i];
+           flight=property.getElementsByTagName("flight")
+                   [0].firstChild.nodeValue;
+           dep=property.getElementsByTagName("dep")
+                   [0].firstChild.nodeValue;
+           depTime=property.getElementsByTagName("depTime")
+                   [0].firstChild.nodeValue;
+           des=property.getElementsByTagName("des")
+                   [0].firstChild.nodeValue;
+           desTime=property.getElementsByTagName("desTime")
+                   [0].firstChild.nodeValue;
+           price=property.getElementsByTagName("price")
+                   [0].firstChild.nodeValue;
+           type=property.getElementsByTagName("type")
+                   [0].firstChild.nodeValue;
+           addTableRow(flight,dep,depTime,des,desTime,price,type);
+       }
+      
+       var header=document.createElement("h2");
+       var headText=document.createTextNode("Results:");
+       header.appendChild(headText);
+       document.getElementById("header").appendChild(header);
+       document.getElementById("resultsTable").setAttribute
+                                 ("border","1");
+       delXml(id);
+    }
+   
+    function addTableRow(flight,dep,depTime,des,desTime,price,type)
+    {
+       //alert("addTableRowp");
+       var row=document.createElement("tr");
+       var cell=createCellWithText(flight);
+       row.appendChild(cell);
+      
+       cell=createCellWithText(dep);
+       row.appendChild(cell);
+      
+       cell=createCellWithText(depTime);
+       row.appendChild(cell);
+      
+       cell=createCellWithText(des);
+       row.appendChild(cell); 
+
+       cell=createCellWithText(desTime);
+       row.appendChild(cell);     
+
+       cell=createCellWithText(price);
+       row.appendChild(cell);
+
+       cell=createCellWithText(type);
+       row.appendChild(cell);
+       document.getElementById("resultsBody").appendChild(row);
+    }
+
+
+    function createCellWithText(text)
+    {
+        var cell=document.createElement("td");
+        var textNode=document.createTextNode(text);
+        cell.appendChild(textNode);
+        return cell;
+    }
+
+    function delXml()
+    {
+      //alert("delXml");
+      var url="del.php";
+
+      url = url + "?id=" + id;
+      if(window.ActiveXObject)
+      {
+           xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+      else if(window.XMLHttpRequest)
+      {
+           xmlHttp=new XMLHttpRequest();
+      }
+      xmlHttp.open("GET",url,true);
+      //xmlHttp.onreadystatechange=callback;
+      xmlHttp.send(null);
+    }
+
+
+
+</script>
+
+<body>
+<form action="#".>
+  <select name="dep" id="dep">
+     <option value="PVG">PVG</option>
+     <option value="PEK">PEK</option>
+     <option value="LAX">LAX</option>
+  </select>
+  <select name="des" id="des">
+     <option value="PVG">PVG</option>
+     <option value="PEK">PEK</option>
+     <option value="LAX">LAX</option>
+  </select>
+  <input type="range" name="points" min="0" max="1" step = "0.1" value = "0.5" />
+  <input type="button" value="search" onclick="doSearch();"/>
+</form>
+<span id="header">
+</span>
+<table id="resultsTable" width="75%" border=0>
+   <tbody id="resultsBody">
+   </tbody>
+</table>
+</body>
+</html>
