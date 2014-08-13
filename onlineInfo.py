@@ -36,7 +36,7 @@ def onlineInfo(start,dest):
 		#flight_code and flight type  span c1
 		span=flight.find_all("span","c1")[0]
 		fldic['flCode']=span.find_all("b")[0].string
-		fldic['flType']=span.find_all("a")[0].next_sibling.next_sibling.string.replace('空客','Airbus').replace("波音","Boeing").replace("中","Medium").replace("大","Large").replace("小","Small")
+		fldic['flType']=span.find_all("a")[0].next_sibling.next_sibling.string.replace('空客','Airbus').replace("波音","Boeing").replace("中","Medium").replace("大","Large").replace("小","Small").replace("宽体机","Wide")
 		#flight time span c2
 		span=flight.find_all("span","c2")[0]
 		fldic['deTime']=span.find_all("div","time1")[0].string
