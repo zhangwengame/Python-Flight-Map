@@ -9,7 +9,7 @@ idNo = str(idNo)
 path = sys.argv[4]
 path = str(path)
 
-def findBest(ans,dep,des,flytime,waittime,wctrl):
+def findBest(ans,dep,des,flytime,waittime,wctrl,shour,smin):
     maxfly = maxwait = 0
     minfly = minwait = 10000
     n = len(ans)
@@ -22,11 +22,9 @@ def findBest(ans,dep,des,flytime,waittime,wctrl):
         atime = ans[i]['arTime']
         ahour = int(atime[:2])
         amin = int(atime[3:5])
-        nowhour = time.localtime().tm_hour
-        nowmin = time.localtime().tm_min
-        if (nowhour>dhour)or((nowhour==dhour)and(nowmin>dmin)):
+        if (shour>dhour)or((shour==dhour)and(smin>dmin)):
             extraday += 1
-        waittime.append(extraday*24*60+(ahour-nowhour)*60+(amin-nowmin))
+        waittime.append(extraday*24*60+(ahour-shour)*60+(amin-smin))
         if waittime[i]>maxwait:
             maxwait = waittime[i]
         if waittime[i]<minwait:
@@ -74,13 +72,14 @@ start=[]
 dest = []
 nocity = {}
 full_info = []
+nowhour = time.localtime().tm_hour
+nowmin = time.localtime().tm_min
 f_route = open("nroute","r")
 f_out = open(path+'/'+idNo+'.xml','w')
 
 f_code = open("Number_City","r");
 for line in f_code:
     res = line.split(',')
-    print(res[1][1:4],dep)
     if res[1][1:4]==dep:
         startCity = int(res[0])
     if res[1][1:4]==des:
@@ -100,7 +99,7 @@ waittime = []
 bf0 = bw0 = 0
 print("<plans>",file=f_out)
 print("<plan>",file=f_out)
-bf0,bw0 = findBest(ans,startCity,destCity,flytime,waittime,1)
+bf0,bw0 = findBest(ans,startCity,destCity,flytime,waittime,1,nowhour,nowmin)
 print("</plan>",file=f_out)
 
 bf = []
@@ -109,14 +108,17 @@ for i in range(2):
     if (midCity[i]!=startCity)and(midCity[i]!=destCity):
         ans = onlineInfo.onlineInfo(startCity,midCity[i])
         if (len(ans)!=0):
-            bf1,bw1 = findBest(ans,startCity,midCity[i],flytime,waittime,0)
+            bf1,bw1 = findBest(ans,startCity,midCity[i],flytime,waittime,0,nowhour,nowmin)
             print(bf1,bw1)
         else:
             bf1 = 10000
             bw1 = 10000
         ans = onlineInfo.onlineInfo(midCity[i],destCity)
+        nextmin = nowmin+bw1
+        nexthour = (nowhour+nextmin//60)%24
+        nextmin = nextmin%60
         if (len(ans)!=0):
-            bf2,bw2 = findBest(ans,midCity[i],destCity,flytime,waittime,0)     #hehe
+            bf2,bw2 = findBest(ans,midCity[i],destCity,flytime,waittime,0,nexthour,nextmin)     #hehe
             print(bf2,bw2)
         else:
             bf2 = 10000
@@ -137,10 +139,10 @@ for i in range(2):
 print("<plan>",file=f_out)
 ans = onlineInfo.onlineInfo(startCity,midCity[minrateindex])
 if (len(ans)!=0):
-    findBest(ans,startCity,midCity[minrateindex],flytime,waittime,1)
+    findBest(ans,startCity,midCity[minrateindex],flytime,waittime,1,nowhour,nowmin)
 ans = onlineInfo.onlineInfo(midCity[minrateindex],destCity)
 if (len(ans)!=0):
-    findBest(ans,midCity[minrateindex],destCity,flytime,waittime,1)
+    findBest(ans,midCity[minrateindex],destCity,flytime,waittime,1,nexthour,nextmin)
 print("</plan>",file=f_out)
 print("</plans>",file=f_out)
 
