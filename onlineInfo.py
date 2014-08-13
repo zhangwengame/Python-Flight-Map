@@ -62,9 +62,12 @@ def onlineInfo(start,dest):
 		span=flight.find_all("span","c4")[0]
 		ti=span.string.replace('小时',',').replace("分钟",'')
 		ti=ti.split(',')
-		if ti[1]=='':
-			ti[1]='0'
-		ti=int(ti[0])*60+int(ti[1])
+		if len(ti)==1:
+			ti=int(ti[0])
+		else:
+			if ti[1]=='':
+				ti[1]='0'
+			ti=int(ti[0])*60+int(ti[1])
 		fldic['time']=ti
 		#weekday
 		span=flight.find_all("span","c5")[0]
