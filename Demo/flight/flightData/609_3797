@@ -1,0 +1,6 @@
+Airbus330(Wide),12:25,14:55,0,LH6158,True,False,True,True,True,True,True,510,
+Airbus330(Wide),12:25,14:55,0,SK909,True,False,True,True,True,True,True,510,
+Airbus340(Large),18:35,21:05,0,SK901,True,False,False,False,False,False,False,510,
+Airbus340(Large),18:35,21:05,0,SK901,False,False,False,True,True,False,False,510,
+Airbus340(Large),18:35,21:05,0,SK901,False,False,True,False,False,False,False,510,
+Airbus340(Large),18:35,21:05,0,SK901,False,True,False,False,False,False,False,510,

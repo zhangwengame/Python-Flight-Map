@@ -1,0 +1,5 @@
+Boeing747(Large),14:40,08:30,1,KL861,True,False,True,False,False,True,False,650,
+Boeing747(Large),14:40,08:30,1,KL861,False,True,False,True,True,False,True,650,
+Boeing777(Large),17:50,12:00,1,AF8246,False,False,False,True,False,True,False,670,
+Boeing777(Large),17:50,12:00,1,KL863,False,True,True,False,False,False,False,670,
+Boeing777(Large),17:50,12:00,1,KL863,False,False,False,True,False,True,False,670,

@@ -1,0 +1,5 @@
+Boeing757(Medium),12:20,14:50,0,AF3652,True,False,True,True,True,True,True,510,
+Boeing757(Medium),12:20,14:50,0,DL219,True,False,True,True,True,True,True,510,
+Boeing757(Medium),12:20,14:50,0,KL6129,True,False,True,True,True,True,True,510,
+Boeing787(Large),17:45,20:05,0,DY7011,True,False,True,False,False,False,False,500,
+Boeing787(Large),19:10,21:30,0,DY7011,False,False,False,False,True,False,True,500,

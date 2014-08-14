@@ -1,0 +1,6 @@
+Boeing747(Large),14:15,19:30,0,BA243,True,True,True,False,True,True,False,675,
+Boeing747(Large),14:15,19:30,0,BA243,False,False,False,False,False,False,True,675,
+Boeing747(Large),14:15,19:30,0,IB4651,True,True,True,False,True,True,False,675,
+Boeing747(Large),14:15,19:30,0,IB4651,False,False,False,False,False,False,True,675,
+Boeing787(Large),18:50,00:35,1,AM8,False,False,False,False,False,True,False,705,
+Boeing787(Large),22:35,04:20,1,AM8,True,False,False,True,False,False,False,705,

@@ -1,0 +1,4 @@
+Boeing777(Large),12:40,07:30,1,BA17,True,True,True,True,True,True,True,650,
+Boeing777(Large),19:35,14:20,1,KE908,True,True,True,True,True,True,True,645,
+Boeing777(Large),21:00,15:50,1,OZ522,False,True,False,False,True,False,True,650,
+Boeing777(Large),21:00,15:50,1,OZ522,True,False,True,True,False,True,False,650,

@@ -1,0 +1,8 @@
+Airbus330(Wide),10:20,12:14,0,DL259,True,True,True,True,True,True,True,534,
+Airbus330(Wide),10:20,12:14,0,KL6059,True,True,True,True,True,True,True,534,
+Airbus330(Wide),13:20,15:14,0,DL261,True,True,True,True,True,True,False,534,
+Airbus330(Wide),13:20,15:14,0,DL261,False,False,False,False,False,False,True,534,
+Airbus330(Wide),13:20,15:14,0,KL6061,True,True,True,True,True,True,False,534,
+Airbus330(Wide),13:20,15:14,0,KL6061,False,False,False,False,False,False,True,534,
+Airbus330(Wide),17:00,18:50,0,DL265,True,True,True,True,True,True,True,530,
+Airbus330(Wide),17:00,18:50,0,KL6065,True,True,True,True,True,True,True,530,

@@ -1,0 +1,8 @@
+Boeing767(Large),05:50,06:55,0,BA236,True,True,False,True,True,True,True,245,
+Airbus320(Medium),05:50,06:55,0,BA236,False,False,True,False,False,False,False,245,
+Boeing767(Large),05:50,06:55,0,S74001,True,True,False,True,True,True,True,245,
+Airbus320(Medium),05:50,06:55,0,S74001,False,False,True,False,False,False,False,245,
+Boeing747(Large),17:15,18:05,0,BA232,True,True,True,True,True,True,True,230,
+Boeing747(Large),17:15,18:05,0,S74003,True,True,True,True,True,True,True,230,
+Airbus320(Medium),19:25,20:25,0,BA234,True,True,True,True,True,True,True,240,
+Airbus320(Medium),19:25,20:25,0,S74005,True,True,True,True,True,True,True,240,
