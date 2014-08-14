@@ -1,0 +1,6 @@
+Airbus330(Wide),08:25,12:00,0,CI551,False,False,False,False,False,False,True,215,
+Boeing747(Large),08:25,12:00,0,CI551,False,True,False,False,False,False,False,215,
+Airbus330(Wide),14:45,18:15,0,BR765,True,False,False,False,True,False,False,210,
+Airbus330(Wide),14:45,18:15,0,CA5526,True,False,False,False,True,False,False,210,
+Airbus330(Wide),19:45,23:15,0,BR2769,False,True,False,True,False,True,True,210,
+Airbus330(Wide),19:45,23:15,0,CA418,False,True,False,True,False,True,True,210,

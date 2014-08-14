@@ -1,0 +1,4 @@
+Boeing767(Large),13:10,21:00,0,OS839,True,False,True,True,False,True,True,350,
+Boeing767(Large),13:45,21:50,0,OS839,False,True,False,False,True,False,False,365,
+Boeing777(Large),15:30,22:55,0,EK128,True,True,True,True,True,True,True,325,
+Boeing777(Large),22:40,06:20,1,EK126,True,False,True,True,True,True,True,340,

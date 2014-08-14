@@ -1,0 +1,4 @@
+Boeing767(Large),07:00,11:50,0,TB107,True,False,False,False,False,False,False,650,
+Boeing767(Large),07:00,11:50,0,TB607,False,False,False,False,False,True,False,650,
+Boeing767(Large),10:25,22:05,0,DL409,False,False,False,False,False,True,False,1060,
+Boeing767(Large),10:25,22:14,0,DL409,True,True,True,True,True,False,True,1069,

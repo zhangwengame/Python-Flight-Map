@@ -1,0 +1,4 @@
+Boeing777(Large),23:10,06:15,1,AF241,True,False,False,False,False,False,False,785,
+Boeing777(Large),23:10,06:15,1,AF241,False,True,False,False,True,False,True,785,
+Airbus380(Large),23:40,06:40,1,AA7440,True,True,True,True,True,True,True,780,
+Airbus380(Large),23:40,06:40,1,MH20,True,True,True,True,True,True,True,780,

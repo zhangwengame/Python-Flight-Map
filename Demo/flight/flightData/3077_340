@@ -1,0 +1,5 @@
+Boeing777(Large),00:25,06:30,0,CX289,False,True,False,True,False,True,True,725,
+Boeing777(Large),00:25,06:30,0,CX289,True,False,True,False,True,False,False,725,
+Boeing747(Large),23:10,05:20,1,LH797,True,True,True,True,True,True,True,730,
+Boeing747(Large),23:10,05:20,1,NZ4633,True,True,True,True,True,True,True,730,
+Boeing747(Large),23:10,05:20,1,TP7629,True,True,True,True,True,True,True,730,

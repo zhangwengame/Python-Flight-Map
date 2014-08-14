@@ -1,0 +1,4 @@
+Boeing737(Medium),12:00,17:50,0,UN370,False,False,False,False,False,True,False,230,
+Boeing737(Medium),22:30,04:20,1,BV2198,False,False,True,False,False,False,False,230,
+Boeing737(Medium),22:30,04:20,1,BV2198,False,False,False,False,True,False,False,230,
+Boeing737(Medium),22:30,04:20,1,BV2198,True,False,False,False,False,False,False,230,

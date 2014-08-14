@@ -1,0 +1,8 @@
+Airbus330(Wide),02:05,07:50,0,9W228,False,True,False,False,True,False,True,555,
+Airbus330(Wide),02:05,07:50,0,9W228,False,False,True,False,False,False,False,555,
+Boeing777(Large),02:05,07:50,0,9W228,False,False,False,True,False,True,False,555,
+Airbus330(Wide),02:05,07:50,0,9W228,True,False,False,False,False,False,False,555,
+Airbus330(Wide),02:05,07:50,0,SN4126,True,False,False,False,False,False,False,555,
+Airbus330(Wide),02:05,07:50,0,SN4126,False,True,False,False,True,False,True,555,
+Airbus330(Wide),02:05,07:50,0,SN4126,False,False,True,False,False,False,False,555,
+Boeing777(Large),02:05,07:50,0,SN4126,False,False,False,True,False,True,False,555,

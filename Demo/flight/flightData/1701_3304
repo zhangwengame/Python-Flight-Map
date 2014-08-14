@@ -1,0 +1,6 @@
+Airbus330(Wide),01:15,16:50,0,MH5880,False,True,True,False,True,False,True,635,
+Airbus340(Large),01:15,16:50,0,MH5880,True,False,False,False,False,True,False,635,
+Airbus340(Large),01:15,16:50,0,TK60,True,False,False,False,False,True,False,635,
+Airbus330(Wide),01:15,16:50,0,TK60,False,True,True,False,True,False,True,635,
+Boeing777(Large),15:10,06:25,1,MH31,True,False,True,False,False,True,False,615,
+Boeing777(Large),15:10,06:25,1,TK8000,True,False,True,False,False,True,False,615,

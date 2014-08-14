@@ -1,0 +1,4 @@
+Airbus330(Wide),02:50,10:55,0,MU564,False,False,False,False,False,True,False,335,
+Airbus330(Wide),02:50,10:55,0,MU564,False,False,True,False,True,False,False,335,
+Airbus330(Wide),02:50,10:55,0,MU564,True,False,False,False,False,False,False,335,
+Boeing787(Large),11:40,20:20,0,AI348,False,True,False,True,False,True,True,370,

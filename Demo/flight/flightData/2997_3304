@@ -1,0 +1,8 @@
+Boeing737(Medium),12:45,20:35,0,JL7970,False,True,True,False,True,True,True,320,
+Boeing737(Medium),12:45,20:35,0,MH175,False,True,True,False,True,True,True,320,
+Boeing737(Medium),22:50,06:35,1,OD216,False,False,True,False,True,False,False,315,
+Boeing737(Medium),22:50,06:35,1,OD216,False,False,False,True,False,False,False,315,
+Boeing737(Medium),22:50,06:35,1,OD216,True,False,False,False,False,True,True,315,
+Boeing777(Large),23:55,07:30,1,9W4211,True,True,True,True,True,True,True,305,
+Boeing777(Large),23:55,07:30,1,JL7942,True,True,True,True,True,True,True,305,
+Boeing777(Large),23:55,07:30,1,MH195,True,True,True,True,True,True,True,305,

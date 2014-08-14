@@ -1,0 +1,4 @@
+Boeing737(Medium),10:55,15:20,0,TK401,False,True,False,True,False,False,True,205,
+Airbus320(Medium),10:55,15:20,0,TK401,False,False,True,False,True,False,False,205,
+Airbus320(Medium),10:55,15:20,0,UT4401,False,False,True,False,True,False,False,205,
+Airbus320(Medium),15:25,20:00,0,SU6296,False,False,False,True,True,True,False,215,

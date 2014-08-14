@@ -1,0 +1,6 @@
+Boeing777(Large),11:55,18:00,0,NH6635,True,True,True,True,True,True,True,725,
+Boeing777(Large),11:55,18:00,0,TK51,True,True,True,True,True,True,True,725,
+Airbus330(Wide),21:20,03:50,1,NH6637,False,False,True,False,False,False,False,750,
+Airbus330(Wide),21:20,03:50,1,TK53,False,False,True,False,False,False,False,750,
+Airbus330(Wide),22:30,05:00,1,NH6637,True,True,False,True,True,True,True,750,
+Airbus330(Wide),22:30,05:00,1,TK53,True,True,False,True,True,True,True,750,

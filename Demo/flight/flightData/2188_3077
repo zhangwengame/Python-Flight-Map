@@ -1,0 +1,8 @@
+Airbus380(Large),03:05,17:35,0,EK384,True,True,True,True,True,True,True,630,
+Airbus380(Large),03:20,15:15,0,EK382,True,True,True,True,True,True,True,475,
+Airbus380(Large),03:20,15:15,0,TP6348,True,True,True,True,True,True,True,475,
+Airbus380(Large),10:05,22:00,0,EK380,False,False,True,True,True,True,False,475,
+Boeing777(Large),10:05,22:00,0,EK380,True,True,False,False,False,False,False,475,
+Airbus380(Large),10:05,22:00,0,EK380,False,False,False,False,False,False,True,475,
+Airbus330(Wide),17:10,05:05,1,CX746,True,True,True,True,True,True,True,475,
+Airbus330(Wide),23:00,11:05,1,CX738,True,True,True,True,True,True,True,485,

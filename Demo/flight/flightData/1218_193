@@ -1,0 +1,5 @@
+Boeing767(Large),13:10,16:00,0,AC1915,False,False,True,False,True,False,True,530,
+Boeing767(Large),13:10,16:00,0,AC1915,True,False,False,False,False,False,False,530,
+Boeing767(Large),13:10,16:00,0,AC1915,False,True,False,False,False,False,False,530,
+Airbus310(Large),14:05,17:20,0,TS269,False,False,False,False,False,True,False,555,
+Airbus310(Large),14:05,17:20,0,TS281,False,False,False,False,False,False,True,555,

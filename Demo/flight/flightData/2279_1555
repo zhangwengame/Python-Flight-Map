@@ -1,0 +1,4 @@
+Airbus330(Wide),12:00,20:50,0,SU265,False,False,False,True,False,False,False,950,
+Boeing777(Large),13:15,19:00,0,AZ785,True,False,False,True,False,True,False,765,
+Boeing777(Large),13:15,19:00,0,AZ785,False,True,False,False,False,False,False,765,
+Boeing777(Large),13:15,19:00,0,AZ785,False,False,True,False,True,False,True,765,

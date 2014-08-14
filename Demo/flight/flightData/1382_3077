@@ -1,0 +1,8 @@
+Boeing777(Large),13:15,06:45,1,CX260,True,True,True,True,True,True,True,690,
+Airbus340(Large),21:10,15:05,1,CX278,True,True,True,True,True,True,True,715,
+Airbus380(Large),23:25,17:20,1,AF188,False,True,False,True,False,True,True,715,
+Airbus380(Large),23:25,17:20,1,AF188,True,False,True,False,True,False,False,715,
+Airbus380(Large),23:25,17:20,1,AZ2690,True,False,True,False,True,False,False,715,
+Airbus380(Large),23:25,17:20,1,AZ2690,False,True,False,True,False,True,True,715,
+Airbus380(Large),23:25,17:20,1,KL2156,False,True,False,True,False,True,True,715,
+Airbus380(Large),23:25,17:20,1,KL2156,True,False,True,False,True,False,False,715,

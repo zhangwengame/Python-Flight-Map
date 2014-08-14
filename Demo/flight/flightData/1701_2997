@@ -1,0 +1,6 @@
+Boeing777(Large),19:35,04:30,1,AC6690,True,True,True,False,True,True,True,385,
+Airbus330(Wide),19:35,04:30,1,AC6690,False,False,False,True,False,False,False,385,
+Airbus330(Wide),19:35,04:30,1,AI6074,False,False,False,True,False,False,False,385,
+Boeing777(Large),19:35,04:30,1,AI6074,True,True,True,False,True,True,True,385,
+Boeing777(Large),19:35,04:30,1,TK720,True,True,True,False,True,True,True,385,
+Airbus330(Wide),19:35,04:30,1,TK720,False,False,False,True,False,False,False,385,

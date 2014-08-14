@@ -4,7 +4,7 @@
 def onlineInfo(start,dest):
 	import urllib.request
 	from bs4 import BeautifulSoup
-	f_name = open("Number_City","r")
+	f_name = open("dataFile/Number_City","r")
 	for line in f_name:
 	    chart = line.split(',')
 	    if str(start)==chart[0]:
@@ -19,7 +19,7 @@ def onlineInfo(start,dest):
 	print(urlarg)
 	thepage = urllib.request.urlopen(urlarg)
 	ncdic={}
-	fdic=open('Number_Chinese','r');
+	fdic=open('dataFile/Number_Chinese','r');
 	for line in fdic:
 		strs=line.split(',')
 		ncdic[strs[1].strip()]=int(strs[0])
@@ -36,9 +36,11 @@ def onlineInfo(start,dest):
 		#flight_code and flight type  span c1
 		span=flight.find_all("span","c1")[0]
 		fldic['flCode']=span.find_all("b")[0].string
-		fldic['flType']=span.find_all("a")[0].next_sibling.next_sibling.string.replace('空客','Airbus').replace("波音","Boeing").replace("中","Medium").replace("大","Large").replace("小","Small").replace("宽体机","Wide")
+		if len(span.find_all("span","title")[0].contents)<5:
+			continue
+		fldic['flType']=span.find_all("span","title")[0].contents[3].replace('空客','Airbus').replace("波音","Boeing").replace("中","Medium").replace("大","Large").replace("小","Small").replace("宽体机","Wide")
 		#flight time span c2
-		span=flight.find_all("span","c2")[0]
+		span=flight.find_all("span","c2")[0]	
 		fldic['deTime']=span.find_all("div","time1")[0].string
 		fldic['arTime']=span.find_all("div","time2")[0].contents[0].string
 		fldic['extraTime']=0

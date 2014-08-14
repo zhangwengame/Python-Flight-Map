@@ -1,0 +1,7 @@
+Boeing737(Medium),08:40,11:40,0,9W4202,False,False,False,False,True,True,True,330,
+Boeing737(Medium),08:40,11:40,0,MH172,False,False,False,False,True,True,True,330,
+Boeing737(Medium),08:40,11:40,0,MH172,True,True,True,True,False,False,False,330,
+Boeing737(Medium),18:15,21:05,0,OD205,True,True,True,True,True,True,True,320,
+Airbus330(Wide),18:25,21:25,0,9W4204,True,True,True,True,True,True,True,330,
+Airbus330(Wide),18:25,21:25,0,JL7941,True,True,True,True,True,True,True,330,
+Airbus330(Wide),18:25,21:25,0,MH190,True,True,True,True,True,True,True,330,

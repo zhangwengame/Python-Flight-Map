@@ -1,0 +1,5 @@
+Airbus380(Large),02:50,15:30,0,EK302,True,True,True,True,True,True,True,520,
+Boeing777(Large),10:35,23:25,0,EK304,True,True,True,True,True,True,True,530,
+Airbus330(Wide),20:30,11:50,1,MU756,False,False,False,True,False,False,False,680,
+Airbus330(Wide),20:30,11:55,1,MU756,False,False,False,False,False,True,False,685,
+Airbus330(Wide),20:30,12:00,1,MU756,False,True,False,False,False,False,False,690,

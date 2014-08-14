@@ -1,0 +1,5 @@
+Airbus320(Medium),07:50,12:10,0,TK1942,True,True,True,True,True,True,True,200,
+Airbus330(Wide),11:15,15:35,0,TK1938,True,True,True,True,True,True,True,200,
+Airbus320(Medium),15:15,19:35,0,TK1944,True,True,False,True,False,True,False,200,
+Airbus320(Medium),18:15,22:35,0,TK1940,True,False,False,False,False,False,True,200,
+Airbus320(Medium),22:45,03:05,1,TK1936,False,False,False,False,False,True,True,200,

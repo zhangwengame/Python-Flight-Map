@@ -1,0 +1,5 @@
+Airbus320(Medium),11:45,10:35,1,SU260,True,True,False,True,False,True,False,950,
+Boeing777(Large),13:40,08:35,1,AF276,False,True,False,True,False,False,True,715,
+Boeing777(Large),17:30,12:10,1,NH206,True,True,True,True,True,True,True,700,
+Boeing787(Large),22:20,16:55,1,AF0284,True,True,True,True,True,True,True,695,
+Boeing787(Large),22:20,16:55,1,JL416,True,True,True,True,True,True,True,695,

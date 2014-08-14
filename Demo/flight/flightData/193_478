@@ -1,0 +1,7 @@
+Airbus310(Large),18:50,06:30,1,TS264,False,False,False,False,False,True,False,400,
+Airbus330(Wide),22:20,10:00,1,TS208,False,False,True,False,False,False,False,400,
+Boeing767(Large),22:25,10:15,1,AC1930,True,True,False,True,True,False,True,410,
+Airbus330(Wide),22:35,10:15,1,TS478,False,False,False,True,False,False,False,400,
+Airbus310(Large),22:50,10:50,1,TS246,False,True,False,False,False,False,False,420,
+Airbus310(Large),23:50,11:30,1,TS206,True,False,False,False,False,False,False,400,
+Airbus310(Large),23:50,11:30,1,TS564,False,False,False,True,False,False,False,400,

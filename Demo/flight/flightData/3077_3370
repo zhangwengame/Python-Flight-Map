@@ -1,0 +1,8 @@
+Airbus330(Wide),08:00,08:55,0,CX5782,False,True,False,False,False,True,False,55,
+Airbus330(Wide),08:00,08:55,0,KA782,False,True,False,False,False,True,False,55,
+Airbus320(Medium),20:20,21:25,0,CX5786,False,False,False,False,True,False,False,65,
+Airbus320(Medium),20:20,21:25,0,CX5786,False,False,False,False,False,False,True,65,
+Airbus320(Medium),20:20,21:25,0,CX5786,True,True,True,True,False,True,False,65,
+Airbus320(Medium),20:20,21:25,0,KA786,True,True,True,True,False,True,False,65,
+Airbus320(Medium),20:20,21:25,0,KA786,False,False,False,False,True,False,False,65,
+Airbus320(Medium),20:20,21:25,0,KA786,False,False,False,False,False,False,True,65,

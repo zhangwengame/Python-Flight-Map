@@ -1,0 +1,8 @@
+Airbus320(Medium),10:50,14:40,0,B7132,False,True,False,False,False,True,False,230,
+Airbus320(Medium),10:50,14:40,0,HU8128,False,True,False,False,False,True,False,230,
+Airbus320(Medium),13:00,16:35,0,CI8007,False,False,True,False,False,True,False,215,
+Airbus320(Medium),13:00,16:35,0,MU2038,False,False,True,False,False,True,False,215,
+Airbus330(Wide),13:10,16:55,0,CI561,True,False,False,False,True,False,False,225,
+Airbus330(Wide),13:10,16:55,0,MU8907,True,False,False,False,True,False,False,225,
+Boeing737(Medium),13:40,17:50,0,B77058,False,True,False,False,True,False,False,250,
+Boeing737(Medium),13:40,17:50,0,HU7980,False,True,False,False,True,False,False,250,

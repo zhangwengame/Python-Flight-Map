@@ -1,0 +1,6 @@
+Airbus320(Medium),06:15,07:15,0,LH1439,False,False,False,True,True,False,False,180,
+Airbus320(Medium),06:15,07:15,0,LH1439,True,False,True,False,False,False,False,180,
+Airbus320(Medium),06:30,07:30,0,LH1439,False,False,False,False,False,False,True,180,
+Airbus320(Medium),12:00,13:00,0,SU6245,True,False,False,True,True,True,False,180,
+Airbus320(Medium),14:50,15:50,0,LH1433,False,True,True,True,True,True,True,180,
+Airbus320(Medium),19:25,20:25,0,LH1437,True,True,True,True,True,True,True,180,

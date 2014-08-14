@@ -1,0 +1,6 @@
+Boeing777(Large),11:45,17:10,0,AF275,True,False,True,False,True,False,False,745,
+Boeing777(Large),11:45,17:10,0,AF275,False,True,False,True,False,True,True,745,
+Airbus330(Wide),12:00,20:55,0,SU261,False,True,True,False,True,False,True,955,
+Boeing777(Large),13:55,19:25,0,NH205,True,True,True,True,True,True,True,750,
+Boeing787(Large),14:35,20:10,0,AF0273,True,True,True,True,True,True,True,755,
+Boeing787(Large),14:35,20:10,0,JL415,True,True,True,True,True,True,True,755,

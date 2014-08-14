@@ -1,0 +1,3 @@
+Boeing747(Large),08:00,13:10,0,CI20,True,False,False,True,False,True,False,1030,
+Boeing777(Large),19:05,22:05,0,BR32,False,False,True,False,True,False,False,900,
+Boeing777(Large),19:05,22:05,0,BR32,True,True,False,True,False,True,True,900,
