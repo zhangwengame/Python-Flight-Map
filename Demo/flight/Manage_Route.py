@@ -1,6 +1,6 @@
 import string
 import time
-import onlineInfo
+import convertData
 import sys
 dep = sys.argv[1]     #departure
 des = sys.argv[2]     #destination
@@ -78,10 +78,10 @@ full_info = []
 nowday = time.localtime().tm_wday
 nowhour = time.localtime().tm_hour
 nowmin = time.localtime().tm_min
-f_route = open("dataFile/nroute","r")
+f_route = open("nroute","r")
 f_out = open(path+'/'+idNo+'.xml','w')
 
-f_code = open("dataFile/Number_City","r");
+f_code = open("Number_City","r");
 for line in f_code:
     res = line.split(',')
     if res[1][1:4]==dep:
@@ -96,7 +96,7 @@ for line in f_route:
     dest.append(int(linelist[5]))
     full_info.append(line)
 
-ans = onlineInfo.onlineInfo(startCity,destCity)
+ans = convertData.onlineInfo(startCity,destCity)
 
 flytime = []
 waittime = []
@@ -108,43 +108,47 @@ print("</plan>",file=f_out)
 
 bf = []
 bw = []
-for i in range(2):
+for i in range(50):
     if (midCity[i]!=startCity)and(midCity[i]!=destCity):
-        ans = onlineInfo.onlineInfo(startCity,midCity[i])
+        ans = convertData.onlineInfo(startCity,midCity[i])
         if (len(ans)!=0):
             bf1,bw1 = findBest(ans,startCity,midCity[i],flytime,waittime,0,nowday,nowhour,nowmin)
-            print(bf1,bw1)
+            #print(bf1,bw1)
         else:
             bf1 = 10000
             bw1 = 10000
-        ans = onlineInfo.onlineInfo(midCity[i],destCity)
+        ans = convertData.onlineInfo(midCity[i],destCity)
         nextmin = nowmin+bw1
         nexthour = (nowhour+nextmin//60)%24
         nextmin = nextmin%60
         if (len(ans)!=0):
             bf2,bw2 = findBest(ans,midCity[i],destCity,flytime,waittime,0,nowday,nexthour,nextmin)     #hehe
-            print(bf2,bw2)
+            #print(bf2,bw2)
         else:
             bf2 = 10000
             bw2 = 10000
         bf.append(bf1+bf2)
         bw.append(bw1+bw2)
-        print("######",bf[i],bw[i])
-
+        #print(i,len(bf)," ######",bf1+bf2,bw1+bw2)
+    else:
+        bf.append(20000)
+        bw.append(20000)
+        
 rate = []
 minrate = 10000
 minrateindex = 0
-for i in range(2):        
+for i in range(50):
+    print(i)
     rate.append(bf[i]+bw[i])       #hehe
     if rate[i]<minrate:
         minrate = rate[i]
         minrateindex = i
 
 print("<plan>",file=f_out)
-ans = onlineInfo.onlineInfo(startCity,midCity[minrateindex])
+ans = convertData.onlineInfo(startCity,midCity[minrateindex])
 if (len(ans)!=0):
     findBest(ans,startCity,midCity[minrateindex],flytime,waittime,1,nowday,nowhour,nowmin)
-ans = onlineInfo.onlineInfo(midCity[minrateindex],destCity)
+ans = convertData.onlineInfo(midCity[minrateindex],destCity)
 if (len(ans)!=0):
     findBest(ans,midCity[minrateindex],destCity,flytime,waittime,1,nowday,nexthour,nextmin)
 print(ans[minrateindex])
