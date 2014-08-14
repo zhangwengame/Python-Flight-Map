@@ -1,0 +1,5 @@
+Boeing777(Large),16:25,16:40,1,AI144,True,True,True,True,True,True,True,885,
+Airbus330(Wide),18:30,22:40,1,9W227,True,False,False,False,False,False,False,1120,
+Airbus330(Wide),18:30,22:40,1,9W227,False,False,True,False,True,False,True,1120,
+Airbus330(Wide),18:30,22:40,1,9W227,False,True,False,False,False,False,False,1120,
+Boeing777(Large),20:30,21:10,1,UA48,True,True,True,True,True,True,True,910,

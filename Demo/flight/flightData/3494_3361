@@ -1,0 +1,8 @@
+Boeing767(Large),18:05,06:20,2,DL417,False,False,False,False,False,True,False,1335,
+Boeing767(Large),18:05,06:20,2,DL417,True,True,True,True,True,False,True,1335,
+Boeing747(Large),18:45,07:35,2,AA7366,False,False,False,False,False,False,True,1370,
+Boeing747(Large),18:45,07:35,2,AA7366,False,False,True,False,False,False,False,1370,
+Boeing747(Large),18:45,07:35,2,AA7366,True,False,False,True,True,True,False,1370,
+Boeing747(Large),18:45,07:35,2,QF108,True,False,False,True,True,True,False,1370,
+Boeing747(Large),18:45,07:35,2,QF108,False,False,False,False,False,False,True,1370,
+Boeing747(Large),18:45,07:35,2,QF108,False,False,True,False,False,False,False,1370,

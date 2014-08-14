@@ -1,0 +1,4 @@
+Airbus320(Medium),13:00,14:15,0,AB5911,False,False,False,False,False,True,False,195,
+Airbus320(Medium),13:00,14:15,0,S7891,False,False,False,False,False,True,False,195,
+Boeing737(Medium),14:45,16:05,0,AB8395,True,False,False,False,True,False,True,200,
+Boeing737(Medium),14:45,16:05,0,S74023,True,False,False,False,True,False,True,200,

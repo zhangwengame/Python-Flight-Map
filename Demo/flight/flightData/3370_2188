@@ -1,0 +1,5 @@
+Boeing777(Large),19:00,23:25,0,CZ383,True,True,False,True,True,True,True,505,
+Boeing777(Large),19:00,23:25,0,KQ5207,True,True,False,True,True,True,True,505,
+Boeing777(Large),20:15,00:40,1,CZ383,False,False,True,False,False,False,False,505,
+Boeing777(Large),20:15,00:40,1,KQ5207,False,False,True,False,False,False,False,505,
+Boeing777(Large),23:55,03:30,1,EK363,True,True,True,True,True,True,True,455,

@@ -1,0 +1,5 @@
+Boeing737(Medium),06:20,12:30,0,FL3149,True,True,True,True,True,False,True,250,
+Boeing737(Medium),06:20,12:30,0,WN1149,True,True,True,True,True,False,True,250,
+Boeing737(Medium),11:10,17:10,0,FL6878,True,True,True,True,True,False,True,240,
+Boeing737(Medium),11:10,17:10,0,WN4878,True,True,True,True,True,False,True,240,
+Boeing737(Medium),14:10,20:10,0,WN760,True,False,True,True,True,False,True,240,

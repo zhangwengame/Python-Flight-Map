@@ -1,0 +1,5 @@
+Boeing737(Medium),06:15,07:30,1,DL240,True,True,True,True,False,False,True,975,
+Boeing757(Medium),06:15,07:30,1,DL240,False,False,False,False,False,True,False,975,
+Boeing757(Medium),06:15,07:30,1,DL240,False,False,False,False,True,False,False,975,
+Airbus320(Medium),08:05,09:10,1,AA718,True,True,True,True,True,True,True,965,
+Airbus320(Medium),08:05,09:10,1,US718,True,True,True,True,True,True,True,965,

@@ -1,0 +1,6 @@
+Boeing777(Large),14:53,17:00,1,DL155,False,False,False,False,False,True,True,727,
+Boeing777(Large),14:53,17:00,1,VN3017,False,False,False,False,False,True,True,727,
+Boeing747(Large),15:00,16:50,1,DL155,True,False,False,False,True,False,False,710,
+Boeing747(Large),15:00,16:50,1,VN3017,True,False,False,False,True,False,False,710,
+Boeing747(Large),15:06,17:00,1,DL155,False,False,True,False,False,False,True,714,
+Boeing747(Large),15:06,17:00,1,VN3017,False,False,True,False,False,False,True,714,

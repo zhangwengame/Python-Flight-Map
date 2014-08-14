@@ -1,0 +1,4 @@
+Airbus320(Medium),02:10,06:45,0,KE5856,True,False,False,False,True,False,False,215,
+Airbus320(Medium),02:10,06:45,0,MU2003,True,False,False,False,True,False,False,215,
+Boeing737(Medium),23:30,05:00,1,KE886,False,False,True,False,True,False,False,270,
+Boeing737(Medium),23:30,05:00,1,MU8312,False,False,True,False,True,False,False,270,

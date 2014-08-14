@@ -1,0 +1,6 @@
+Boeing767(Large),00:10,04:50,0,CA5023,False,False,True,False,False,True,False,220,
+Boeing767(Large),00:10,04:50,0,OZ324,False,False,True,False,False,True,False,220,
+Airbus320(Medium),08:05,14:20,0,CA435,True,False,True,True,True,False,True,315,
+Airbus320(Medium),08:05,14:20,0,OZ6832,True,False,True,True,True,False,True,315,
+Airbus320(Medium),15:20,19:35,0,3U8903,False,True,False,False,False,True,False,195,
+Airbus330(Wide),15:20,19:35,0,3U8903,False,False,False,True,False,False,False,195,

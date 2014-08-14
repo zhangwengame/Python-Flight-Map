@@ -1,0 +1,8 @@
+Airbus380(Large),10:30,14:20,0,LH462,True,True,True,True,False,True,True,590,
+Airbus380(Large),10:30,14:20,0,OS7323,True,True,True,True,False,True,True,590,
+Airbus380(Large),10:30,14:20,0,TG7706,True,True,True,True,False,True,True,590,
+Airbus380(Large),10:30,14:20,0,UA8849,True,True,True,True,False,True,True,590,
+Airbus330(Wide),13:10,20:37,0,AA703,False,False,False,True,False,False,True,807,
+Airbus330(Wide),13:10,20:37,0,AA703,True,False,True,False,True,True,False,807,
+Airbus330(Wide),13:10,20:37,0,US703,False,False,False,True,False,False,True,807,
+Airbus330(Wide),13:10,20:37,0,US703,True,False,True,False,True,True,False,807,

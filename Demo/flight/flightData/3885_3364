@@ -1,0 +1,3 @@
+Boeing737(Medium),01:00,06:30,0,CA980,True,True,True,True,True,True,True,270,
+Airbus330(Wide),23:50,05:30,1,TG674,False,True,False,True,False,True,False,280,
+Airbus330(Wide),23:50,05:30,1,TG674,True,False,True,False,True,False,True,280,

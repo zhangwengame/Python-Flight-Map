@@ -1,0 +1,7 @@
+Boeing737(Medium),06:20,10:55,0,AA1098,True,True,True,True,True,True,True,215,
+Boeing737(Medium),06:20,10:55,0,JJ2071,True,True,True,True,True,True,True,215,
+Boeing737(Medium),06:20,10:55,0,US1098,True,True,True,True,True,True,True,215,
+麦道90(Medium),09:10,13:50,0,AZ5933,True,False,False,True,True,False,True,220,
+麦道90(Medium),09:10,13:50,0,DL2322,True,False,False,True,True,False,True,220,
+麦道90(Medium),10:00,14:35,0,AZ5933,False,True,True,False,False,True,False,215,
+麦道90(Medium),10:00,14:35,0,DL2322,False,True,True,False,False,True,False,215,

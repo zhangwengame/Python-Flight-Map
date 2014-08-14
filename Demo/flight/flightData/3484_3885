@@ -1,0 +1,4 @@
+Boeing777(Large),01:25,11:15,1,TG693,False,False,False,False,False,False,True,1190,
+Boeing777(Large),01:25,11:15,1,TG693,True,False,True,False,True,False,False,1190,
+Boeing747(Large),13:45,23:35,1,DL283,False,True,False,True,False,True,False,1190,
+Boeing747(Large),13:45,23:40,1,DL283,True,False,True,False,True,False,False,1195,

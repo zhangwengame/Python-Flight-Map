@@ -1,0 +1,5 @@
+Airbus330(Wide),02:35,08:40,0,BR61,False,True,False,False,False,False,False,665,
+Airbus330(Wide),02:35,08:45,0,BR61,False,False,True,False,True,False,True,670,
+Boeing777(Large),23:55,05:35,1,LH6467,False,False,True,True,True,True,False,640,
+Boeing777(Large),23:55,05:35,1,OS26,False,False,True,True,True,True,False,640,
+Boeing777(Large),23:55,05:35,1,TG7202,False,False,True,True,True,True,False,640,

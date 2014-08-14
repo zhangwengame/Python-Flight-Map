@@ -1,0 +1,5 @@
+Boeing737(Medium),12:15,09:15,1,DL408,True,True,False,False,False,False,False,900,
+Boeing737(Medium),12:15,09:15,1,DL408,False,False,True,True,True,False,True,900,
+Boeing737(Medium),12:16,09:15,1,DL408,False,False,False,False,False,True,False,899,
+Boeing767(Large),14:50,06:00,1,TB108,True,False,False,False,False,False,False,550,
+Boeing767(Large),14:50,06:00,1,TB608,False,False,False,False,False,True,False,550,

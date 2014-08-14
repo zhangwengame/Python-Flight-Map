@@ -1,0 +1,6 @@
+M80(Small),08:25,07:50,1,AA54,True,True,True,True,True,True,True,925,
+M80(Small),08:25,07:50,1,US54,True,True,True,True,True,True,True,925,
+Airbus320(Medium),11:00,08:50,1,AA734,True,True,True,True,True,True,True,830,
+Airbus320(Medium),11:00,08:50,1,US734,True,True,True,True,True,True,True,830,
+Boeing747(Large),17:30,11:05,1,DL4401,False,False,False,True,False,False,True,575,
+Boeing747(Large),17:30,11:05,1,VS86,False,False,False,True,False,False,True,575,
