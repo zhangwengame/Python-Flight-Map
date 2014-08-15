@@ -49,10 +49,12 @@ def findBest(ans,dep,des,flytime,waittime,wctrl,sday,shour,smin):
         if rate[i]<minrate:
             minrate = rate[i]
             minrateindex = i
-    bestfly = ans[minrateindex]['time']
-    bestwait = waittime[minrateindex]
-    if (wctrl==1):
-        print("""   <flight>
+    print(minrateindex)
+    if (len(flytime)!=0):
+        bestfly = flytime[minrateindex]
+        bestwait = waittime[minrateindex]
+        if (wctrl==1):
+            print("""   <flight>
      <No>{}</No>
      <dep>{}</dep>
      <depTime>{}</depTime>
@@ -64,7 +66,18 @@ def findBest(ans,dep,des,flytime,waittime,wctrl,sday,shour,smin):
                        ans[minrateindex]['deTime'],nocity[des],
                          ans[minrateindex]['arTime'],ans[minrateindex]['time'],
                          ans[minrateindex]['flType']),file=f_out)
-    return bestfly,bestwait
+        return bestfly,bestwait
+    else:
+        print("""   <flight>
+     <No>No Flight</No>
+     <dep>No Flight</dep>
+     <depTime>No Flight</depTime>
+     <des>No Flight</des>
+     <desTime>No Flight</desTime>
+     <price>No Flight</price>
+     <type>No Flight</type>
+   </flight>""",file=f_out)
+        return 10000,10000
 
 midCity=[193,302,340,345,346,478,502,507,580,609,1218,1229,1382,1555,1613,1701,
 1824,2179,2188,2276,2279,2948,2997,3077,3093,3930,3304,3316,3361,3364,3370,3379,
