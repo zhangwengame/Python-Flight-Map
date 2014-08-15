@@ -78,10 +78,10 @@ full_info = []
 nowday = time.localtime().tm_wday
 nowhour = time.localtime().tm_hour
 nowmin = time.localtime().tm_min
-f_route = open("nroute","r")
+f_route = open("dataFile/nroute","r")
 f_out = open(path+'/'+idNo+'.xml','w')
 
-f_code = open("Number_City","r");
+f_code = open("dataFile/Number_City","r");
 for line in f_code:
     res = line.split(',')
     if res[1][1:4]==dep:
@@ -151,7 +151,6 @@ if (len(ans)!=0):
 ans = convertData.onlineInfo(midCity[minrateindex],destCity)
 if (len(ans)!=0):
     findBest(ans,midCity[minrateindex],destCity,flytime,waittime,1,nowday,nexthour,nextmin)
-print(ans[minrateindex])
 print("</plan>",file=f_out)
 print("</plans>",file=f_out)
 
