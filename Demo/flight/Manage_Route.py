@@ -8,6 +8,7 @@ idNo = sys.argv[3]
 idNo = str(idNo)
 path = sys.argv[4]
 path = str(path)
+ratio = float(sys.argv[5])
 
 def findBest(ans,dep,des,flytime,waittime,wctrl,sday,shour,smin):
     maxfly = maxwait = 0
@@ -42,7 +43,7 @@ def findBest(ans,dep,des,flytime,waittime,wctrl,sday,shour,smin):
     for i in range(n):
         flyrate = (flytime[i]-minfly)/(maxfly-minfly+1)
         waitrate = (waittime[i]-minwait)/(maxwait-minwait+1)
-        rate.append(flyrate+waitrate)
+        rate.append(flyrate*(1-ratio)+waitrate*ratio)
     minrateindex = 0
     minrate = 10
     for i in range(n):
@@ -152,7 +153,7 @@ minrate = 10000
 minrateindex = 0
 for i in range(50):
     print(i)
-    rate.append(bf[i]+bw[i])       #hehe
+    rate.append(bf[i]*(1-ratio)+bw[i]*ratio)       #hehe
     if rate[i]<minrate:
         minrate = rate[i]
         minrateindex = i
