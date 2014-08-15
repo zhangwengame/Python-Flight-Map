@@ -162,7 +162,7 @@
          //header.appendChild(headText);
          //document.getElementById("header").appendChild(header);
          //resultsTable.setAttribute("border","1");
-         resultsTable.setAttribute("style","margin-right:200px; width:80%;background-color:#EEEEEE; height: 50px","border","1");
+         resultsTable.setAttribute("style","margin-right:200px; border: 2px black; width:80%; text-align:center; background-color:#EEEEEE; height: 50px");
          document.getElementById("resultsTable").appendChild(resultsTable);
          // document.getElementById("resultsTable" + (i+2)).setAttribute
          //                         ("border","1");
@@ -206,6 +206,7 @@
     {
        //alert("addTableRowp");
        var row=document.createElement("tr");
+       row.setAttribute("style"," border-width: 1px;  padding: 8px;  border-style: solid;  border-color: #666666;  background-color: #dedede;")
        var cell=createCellWithText(flightNo);
        row.appendChild(cell);
       
@@ -236,6 +237,7 @@
     function createCellWithText(text)
     {
         var cell=document.createElement("td");
+        cell.setAttribute("style","width: 14.33%")
         var textNode=document.createTextNode(text);
         cell.appendChild(textNode);
         return cell;
