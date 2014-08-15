@@ -162,7 +162,7 @@
          //header.appendChild(headText);
          //document.getElementById("header").appendChild(header);
          //resultsTable.setAttribute("border","1");
-         resultsTable.setAttribute("style","margin-right:200px; border: 2px black; width:80%; text-align:center; background-color:#EEEEEE; height: 50px");
+         resultsTable.setAttribute("style","font-family: verdana,helvetica,arial,sans-serif; margin-right:200px; border: 2px black; width:80%; text-align:center; background-color:#EEEEEE; height: 50px");
          document.getElementById("resultsTable").appendChild(resultsTable);
          // document.getElementById("resultsTable" + (i+2)).setAttribute
          //                         ("border","1");
