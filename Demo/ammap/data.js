@@ -35,363 +35,633 @@ AmCharts.ready(function() {
                     lines: [
                     {
                         latitudes: [43.6772,50.9014],
-                        longitudes: [-79.6306,4.4844]
+                        longitudes: [-79.6306,4.4844],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,32.8968],
-                        longitudes: [-79.6306,-97.0380]
+                        longitudes: [-79.6306,-97.0380],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,36.0801],
-                        longitudes: [-79.6306,-115.1522]
+                        longitudes: [-79.6306,-115.1522],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,33.9425],
-                        longitudes: [-79.6306,-118.4081]
+                        longitudes: [-79.6306,-118.4081],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.7933],
-                        longitudes: [-79.6306,-80.2906]
+                        longitudes: [-79.6306,-80.2906],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.9786],
-                        longitudes: [-79.6306,-87.9048]
+                        longitudes: [-79.6306,-87.9048],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,24.4330],
-                        longitudes: [-79.6306,54.6511]
+                        longitudes: [-79.6306,54.6511],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,35.2140],
-                        longitudes: [-79.6306,-80.9431]
+                        longitudes: [-79.6306,-80.9431],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,55.6179],
-                        longitudes: [-79.6306,12.6560]
+                        longitudes: [-79.6306,12.6560],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,39.8617],
-                        longitudes: [-79.6306,-104.6732]
+                        longitudes: [-79.6306,-104.6732],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,32.8968],
-                        longitudes: [-79.6306,-97.0380]
+                        longitudes: [-79.6306,-97.0380],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6925],
-                        longitudes: [-79.6306,-74.1687]
+                        longitudes: [-79.6306,-74.1687],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,50.0264],
-                        longitudes: [-79.6306,8.5431]
+                        longitudes: [-79.6306,8.5431],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,22.3089],
-                        longitudes: [-79.6306,113.9146]
+                        longitudes: [-79.6306,113.9146],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,29.9844],
-                        longitudes: [-79.6306,-95.3414]
+                        longitudes: [-79.6306,-95.3414],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.9769],
-                        longitudes: [-79.6306,28.8146]
+                        longitudes: [-79.6306,28.8146],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,36.0801],
-                        longitudes: [-79.6306,-115.1522]
+                        longitudes: [-79.6306,-115.1522],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,33.9425],
-                        longitudes: [-79.6306,-118.4081]
+                        longitudes: [-79.6306,-118.4081],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,19.4363],
-                        longitudes: [-79.6306,-99.0721]
+                        longitudes: [-79.6306,-99.0721],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.7933],
-                        longitudes: [-79.6306,-80.2906]
+                        longitudes: [-79.6306,-80.2906],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,44.8820],
-                        longitudes: [-79.6306,-93.2218]
+                        longitudes: [-79.6306,-93.2218],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,48.3538],
-                        longitudes: [-79.6306,11.7861]
+                        longitudes: [-79.6306,11.7861],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,35.7647],
-                        longitudes: [-79.6306,140.3864]
+                        longitudes: [-79.6306,140.3864],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.9786],
-                        longitudes: [-79.6306,-87.9048]
+                        longitudes: [-79.6306,-87.9048],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.0801],
-                        longitudes: [-79.6306,116.5846]
+                        longitudes: [-79.6306,116.5846],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,31.1434],
-                        longitudes: [-79.6306,121.8052]
+                        longitudes: [-79.6306,121.8052],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,37.6190],
-                        longitudes: [-79.6306,-122.3749]
+                        longitudes: [-79.6306,-122.3749],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,48.1103],
-                        longitudes: [-79.6306,16.5697]
+                        longitudes: [-79.6306,16.5697],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.8045],
-                        longitudes: [-79.6306,12.2508]
+                        longitudes: [-79.6306,12.2508],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.0777],
-                        longitudes: [-79.6306,121.2328]
+                        longitudes: [-79.6306,121.2328],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.0801],
-                        longitudes: [-79.6306,116.5846]
+                        longitudes: [-79.6306,116.5846],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,31.1434],
-                        longitudes: [-79.6306,121.8052]
+                        longitudes: [-79.6306,121.8052],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,22.3089],
-                        longitudes: [-79.6306,113.9146]
+                        longitudes: [-79.6306,113.9146],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,52.3086],
-                        longitudes: [-79.6306,4.7639]
+                        longitudes: [-79.6306,4.7639],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.8045],
-                        longitudes: [-79.6306,12.2508]
+                        longitudes: [-79.6306,12.2508],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,36.0801],
-                        longitudes: [-79.6306,-115.1522]
+                        longitudes: [-79.6306,-115.1522],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.7933],
-                        longitudes: [-79.6306,-80.2906]
+                        longitudes: [-79.6306,-80.2906],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,44.8820],
-                        longitudes: [-79.6306,-93.2218]
+                        longitudes: [-79.6306,-93.2218],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.2528],
-                        longitudes: [-79.6306,55.3644]
+                        longitudes: [-79.6306,55.3644],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,24.4330],
-                        longitudes: [-79.6306,54.6511]
+                        longitudes: [-79.6306,54.6511],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.9786],
-                        longitudes: [-79.6306,-87.9048]
+                        longitudes: [-79.6306,-87.9048],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.0801],
-                        longitudes: [-79.6306,116.5846]
+                        longitudes: [-79.6306,116.5846],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,37.4691],
-                        longitudes: [-79.6306,126.4505]
+                        longitudes: [-79.6306,126.4505],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,52.3086],
-                        longitudes: [-79.6306,4.7639]
+                        longitudes: [-79.6306,4.7639],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,55.6179],
-                        longitudes: [-79.6306,12.6560]
+                        longitudes: [-79.6306,12.6560],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,50.0264],
-                        longitudes: [-79.6306,8.5431]
+                        longitudes: [-79.6306,8.5431],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,48.3538],
-                        longitudes: [-79.6306,11.7861]
+                        longitudes: [-79.6306,11.7861],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,48.1103],
-                        longitudes: [-79.6306,16.5697]
+                        longitudes: [-79.6306,16.5697],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,35.7647],
-                        longitudes: [-79.6306,140.3864]
+                        longitudes: [-79.6306,140.3864],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,48.1103],
-                        longitudes: [-79.6306,16.5697]
+                        longitudes: [-79.6306,16.5697],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,55.6179],
-                        longitudes: [-79.6306,12.6560]
+                        longitudes: [-79.6306,12.6560],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,50.9014],
-                        longitudes: [-79.6306,4.4844]
+                        longitudes: [-79.6306,4.4844],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.9769],
-                        longitudes: [-79.6306,28.8146]
+                        longitudes: [-79.6306,28.8146],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.1481],
-                        longitudes: [-79.6306,-0.1903]
+                        longitudes: [-79.6306,-0.1903],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,53.3537],
-                        longitudes: [-79.6306,-2.2750]
+                        longitudes: [-79.6306,-2.2750],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,39.8617],
-                        longitudes: [-79.6306,-104.6732]
+                        longitudes: [-79.6306,-104.6732],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,32.8968],
-                        longitudes: [-79.6306,-97.0380]
+                        longitudes: [-79.6306,-97.0380],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6925],
-                        longitudes: [-79.6306,-74.1687]
+                        longitudes: [-79.6306,-74.1687],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,29.9844],
-                        longitudes: [-79.6306,-95.3414]
+                        longitudes: [-79.6306,-95.3414],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,33.9425],
-                        longitudes: [-79.6306,-118.4081]
+                        longitudes: [-79.6306,-118.4081],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,44.8820],
-                        longitudes: [-79.6306,-93.2218]
+                        longitudes: [-79.6306,-93.2218],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,41.9786],
-                        longitudes: [-79.6306,-87.9048]
+                        longitudes: [-79.6306,-87.9048],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,37.6190],
-                        longitudes: [-79.6306,-122.3749]
+                        longitudes: [-79.6306,-122.3749],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,49.0128],
-                        longitudes: [-79.6306,2.5500]
+                        longitudes: [-79.6306,2.5500],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,50.0264],
-                        longitudes: [-79.6306,8.5431]
+                        longitudes: [-79.6306,8.5431],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,51.4775],
-                        longitudes: [-79.6306,-0.4614]
+                        longitudes: [-79.6306,-0.4614],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,35.2140],
-                        longitudes: [-79.6306,-80.9431]
+                        longitudes: [-79.6306,-80.9431],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,32.8968],
-                        longitudes: [-79.6306,-97.0380]
+                        longitudes: [-79.6306,-97.0380],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,40.6398],
-                        longitudes: [-79.6306,-73.7789]
+                        longitudes: [-79.6306,-73.7789],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,36.0801],
-                        longitudes: [-79.6306,-115.1522]
+                        longitudes: [-79.6306,-115.1522],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,33.9425],
-                        longitudes: [-79.6306,-118.4081]
+                        longitudes: [-79.6306,-118.4081],
+                        color:"#999999",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
                         latitudes: [43.6772,25.7933],
-                        longitudes: [-79.6306,-80.2906]
+                        longitudes: [-79.6306,-80.2906],
+                        color:"#993039",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
-                        latitudes: [43.6772,44.8820],
-                        longitudes: [-79.6306,-93.2218]
+                        latitudes: [25.7933,41.9786],
+                        longitudes: [-80.2906,-87.9048],
+                        color:"#993039",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     },
                     {
-                        latitudes: [43.6772,41.9786],
-                        longitudes: [-79.6306,-87.9048]
+                        latitudes: [41.9786,44.8820],
+                        longitudes: [-87.9048,-93.2218],
+                        color:"#993039",
+			            			alpha:"1.0",
+			            		  thickness:"3.0"
                     }],
                 images: [{
 			            label: "Flights from Toronto",
@@ -17068,7 +17338,7 @@ AmCharts.ready(function() {
                     Xian,
 
             ];
-            dataProvider.linkToObject = London;
+            
             dataProvider.images = cities;
             map.dataProvider = dataProvider;
             map.backgroundZoomsToTop = true;
