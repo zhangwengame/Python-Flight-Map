@@ -9,6 +9,6 @@
 	echo "python " .$path. "/query.py" . " " .$dep ." ".$des ." ".$id." ".$path;
 	//system("python " .$path. "/query.py" . " " .$dep ." ".$des ." ".$id." ".$rate." ".$path);
 	//system("python " .$path. "/Manage_Route.py" . " " .$dep ." ".$des ." ".$id." ".$rate." ".$path);
-	system("python " .$path. "/Manage_Route.py" . " " .$dep ." ".$des ." ".$id." ".$path);
+	system("python " .$path. "/Manage_Route.py" . " " .$dep ." ".$des ." ".$id." ".$path." ".$rate);
 	//获取php当前目录，并拼凑出Py文件的目录
 ?>
